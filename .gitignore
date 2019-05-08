@@ -3,4 +3,5 @@ dist/cdned.html
 dist/recieve.html
 nodejs/node_modules
 python
+golang
 NEXT-README.md
