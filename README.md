@@ -2,6 +2,9 @@
 
 This repo contains examples for interacting with `wasm-flate` and with and Node servers (Python & Golang coming soon).  
 
+[wasm-flate](https://github.com/drbh/wasm-flate)  
+[npm package](https://npmjs.com/package/wasm-flate)  
+
 The follow examples show how to consume compressed data from the browser and decrypt on the server side, or how to compress data server side an decompress in the browser.
 
 **Browser → Server usecases**  
@@ -32,7 +35,7 @@ Now we can access the UI files at `localhost:8080/`
 
 **Browser → Server**  
 ```
-http://localhost:8080/send
+http://localhost:8080/send.html
 ```
 
 
