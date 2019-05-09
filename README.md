@@ -1,10 +1,12 @@
 # 🗜️⚡ `wasm-flate` examples
 
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
+<img src="https://camo.githubusercontent.com/ee55a8e84adcd182ecc1a04d4d83ceec688f80da/687474703a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652d76302e31302e33332d6f72616e67652e737667" alt="http://img.shields.io/node/latest-version.svg" data-canonical-src="http://img.shields.io/badge/node-v0.10.33-orange.svg" style="max-width:100%;">
+
 This repo contains examples for interacting with `wasm-flate` and with and Node servers (Python & Golang coming soon).  
 
 [wasm-flate](https://github.com/drbh/wasm-flate)  
 [npm package](https://npmjs.com/package/wasm-flate)  
-[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 
 The follow examples show how to consume compressed data from the browser and decrypt on the server side, or how to compress data server side an decompress in the browser.
 
