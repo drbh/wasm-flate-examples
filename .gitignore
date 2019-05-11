@@ -1,6 +1,7 @@
 dist/index.html
 dist/cdned.html
 dist/recieve.html
+notebooks
+golang/deflate.go
 nodejs/node_modules
-golang
 NEXT-README.md
